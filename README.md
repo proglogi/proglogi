@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=proglogi&color=blueviolet)
+
 ## Olá, mundo! 👽🖖🏻
 Meu nome é `Nicholly Gonzaga`, tenho `21 anos` e sou da cidade de `São Paulo`. Estudo na `Escola Técnica Estadual (ETEC)` no curso `Técnico em Informática para Internet` e na `Faculdade Impacta`, onde faço graduação em `Análise e Desenvolvimento de Sistemas`.<br/><br/>
 Pronomes: `Ela/Dela` - `She/Her`<br/><br/>
